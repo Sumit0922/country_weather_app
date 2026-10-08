@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638495612635",
+    "project_id": "countryweather-1e97b",
+    "storage_bucket": "countryweather-1e97b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638495612635:android:cde38dce63945832eeb6fe",
+        "android_client_info": {
+          "package_name": "com.example.country_weather_explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhfgSe0I3gAtkMPs0rHvLt9DgKWrg95o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
